@@ -12,4 +12,4 @@ A CHIP-8 emulator developed in C++. CHIP-8 is an interpreted programming languag
 ./run.sh
 * Instructions on loading the ROM will be provided by the script
 
-#Developed by Aditya Pujara
+### Developed by Aditya Pujara
