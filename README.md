@@ -7,7 +7,8 @@ A CHIP-8 emulator developed in C++. CHIP-8 is an interpreted programming languag
 * Linux operating system
 * SDL2 (Simple DirectMedia Layer) complete installation
 
-## Instructions: 
+## Instructions:
+* Use this command to download/update SDL2: apt-get install libsdl2-dev
 * Run the run.sh script using the command:
 ./run.sh
 * Instructions on loading the ROM will be provided by the script
